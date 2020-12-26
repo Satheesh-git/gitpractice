@@ -3,3 +3,4 @@ def hello():
     print("testing git")
     print("another file")
     print("commitcheck")
+    print("bayernmunich")
